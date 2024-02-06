@@ -1,6 +1,6 @@
 // wpu Coding Challenge 2024
-// 1/366
-// https://www.codewars.com/kata/53ee5429ba190077850011d4/train/javascript
+// 2/366
+// https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/javascript
 
 
 // <----- cara ke 1 ----->
